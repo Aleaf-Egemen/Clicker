@@ -9,7 +9,7 @@
 
 🔰 Arraylist [Hilelerin listesi]
 
-🔰 Block Chat [Sohbet engelleyici]
+🔰 Block Chat [Hilelerin sohbet açıkken açılmasını engeller]
 
 ## Kullanım
 
