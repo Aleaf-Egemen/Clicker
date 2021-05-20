@@ -14,3 +14,9 @@
 💠 Hilenin kurulumunu bekleyin.
 
 💠 Clicker otomatik olarak başlatılacaktır.
+
+## Ekran Görüntüleri
+
+![image](https://user-images.githubusercontent.com/45121448/118940604-905a5880-b959-11eb-9ba4-445bb2ae9203.png)
+
+![image](https://user-images.githubusercontent.com/45121448/118940808-c0a1f700-b959-11eb-9158-e2ca86431d91.png)
