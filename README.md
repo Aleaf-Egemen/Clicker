@@ -9,7 +9,7 @@
 
 ## Kullanım
 
-💠 Hileyi [Aleaf Loader](https://github.com/Aleaf-Egemen/Clicker/releases/tag/1.0.0.0) ile başlatın.
+💠 Hileyi [Aleaf Loader](https://github.com/Aleaf-Egemen/Clicker/releases/tag/1.0) ile başlatın.
 
 💠 Hilenin kurulumunu bekleyin.
 
