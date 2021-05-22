@@ -5,7 +5,7 @@
 
 🔰 Right Clicker [1-100 CPS]
 
-🔰 CPS Bypasser [15 CPS limitlendirmesini kaldırır]
+🔰 CPS Bypasser [15 CPS limitlendirmesini kaldırır. Speed: 3 tavsiye edilir.]
 
 🔰 Arraylist [Hilelerin listesi]
 
@@ -13,7 +13,7 @@
 
 ## Kullanım
 
-💠 Hileyi [Aleaf Loader](https://github.com/Aleaf-Egemen/Clicker/releases/tag/1.0) ile başlatın.
+💠 Hileyi [Aleaf Loader](https://github.com/Aleaf-Egemen/Clicker/releases/tag/1.1) ile başlatın.
 
 💠 Hilenin kurulumunu bekleyin.
 
@@ -23,4 +23,5 @@
 
 ![image](https://user-images.githubusercontent.com/45121448/118970656-22bd2500-b977-11eb-9a21-baab836b971f.png)
 
-![image](https://user-images.githubusercontent.com/45121448/118990990-05468600-b98c-11eb-8c8d-99edfa61cf03.png)
+![image](https://user-images.githubusercontent.com/45121448/119227926-08bb4800-bb19-11eb-87e3-1df5811b66dc.png)
+
