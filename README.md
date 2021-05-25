@@ -13,7 +13,7 @@
 
 ## Kullanım
 
-💠 Hileyi [Aleaf Loader](https://github.com/Aleaf-Egemen/Clicker/releases/tag/1.1) ile başlatın.
+💠 Hileyi [Aleaf Loader](https://github.com/Aleaf-Egemen/Clicker/releases) ile başlatın.
 
 💠 Hilenin kurulumunu bekleyin.
 
