@@ -5,9 +5,9 @@
 
 🔰 Right Clicker [1-100 CPS]
 
-🔰 CPS Bypasser [15 CPS limitlendirmesini kaldırır. Speed: 3 tavsiye edilir.]
+🔰 CPS Bypasser [15 CPS limitlendirmesini kaldırır]
 
-🔰 Arraylist [Hilelerin listesi]
+🔰 Arraylist [Hilelerin listesini gösteren menü]
 
 🔰 Ignore Chat [Hilelerin sohbet açıkken açılmasını engeller]
 
