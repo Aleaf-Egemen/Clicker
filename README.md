@@ -13,14 +13,14 @@
 
 ## Kullanım
 
-💠 Hileyi [Aleaf Loader](https://github.com/Aleaf-Egemen/Clicker/releases) ile başlatın.
+💠 Clicker'i [Aleaf Loader](https://github.com/Aleaf-Egemen/Clicker/releases) ile başlatın.
 
-💠 Hilenin kurulumunu bekleyin.
+💠 Clicker'in kurulumunu bekleyin.
 
 💠 Clicker otomatik olarak başlatılacaktır.
 
 ## Ekran Görüntüleri
 
-![image](https://user-images.githubusercontent.com/45121448/120646838-deb13200-c404-11eb-9d30-1765f312f665.png)
+![image](https://user-images.githubusercontent.com/45121448/121609529-beb0ec80-ca5c-11eb-96f6-9e63cad6bdb1.png)
 
-![image](https://user-images.githubusercontent.com/45121448/120646695-b88b9200-c404-11eb-80bb-29ce7a2e40a6.png)
+![image](https://user-images.githubusercontent.com/45121448/121609541-c5d7fa80-ca5c-11eb-99b8-0a569404ac2c.png)
