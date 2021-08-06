@@ -1,4 +1,4 @@
-# Aleaf Clicker
+# Laze Clicker
 ## Özellikler
 
 🔰 Left Clicker [1-100 CPS]
@@ -13,11 +13,11 @@
 
 ## Kullanım
 
-💠 Clicker'i [Aleaf Loader](https://github.com/Aleaf-Egemen/Clicker/releases) ile başlatın.
+💠 [Laze Loader](https://github.com/Aleaf-Egemen/Clicker/releases) ile başlatın.
 
-💠 Clicker'in kurulumunu bekleyin.
+💠 Hilenin kurulumunu bekleyin.
 
-💠 Clicker otomatik olarak başlatılacaktır.
+💠 Hile otomatik olarak başlatılacaktır.
 
 ## Ekran Görüntüleri
 
