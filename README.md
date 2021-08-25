@@ -1,17 +1,15 @@
-# Laze Clicker
+# Laze Clicker | 26.08.2021
 ## Özellikler
 
-🔰 Left Clicker [1-100 CPS]
+🔰 Left Clicker [1-20 CPS]
 
-🔰 Right Clicker [1-100 CPS]
-
-🔰 CPS Bypasser [15 CPS limitlendirmesini kaldırır]
+🔰 Right Clicker [1-20 CPS]
 
 🔰 Arraylist [Hilelerin listesini gösteren menü]
 
 🔰 Ignore Chat [Hilelerin sohbet açıkken açılmasını engeller]
 
-## Kullanım
+## Kurulum
 
 💠 [Laze Loader](https://github.com/Aleaf-Egemen/Clicker/releases) ile başlatın.
 
@@ -21,6 +19,7 @@
 
 ## Ekran Görüntüleri
 
-![image](https://user-images.githubusercontent.com/45121448/128512324-c300dfa6-95ce-4608-88a4-f87f885a221c.png)
+![image](https://user-images.githubusercontent.com/45121448/130863644-76cea607-0f1d-463e-bffb-6b6b38bac5d0.png)
 
-![image](https://user-images.githubusercontent.com/45121448/128512343-ee344457-756d-491c-8933-802c530cb41c.png)
+![image](https://user-images.githubusercontent.com/45121448/130863675-0b152c0f-dbe7-40ba-995a-cfb31dbca650.png)
+
