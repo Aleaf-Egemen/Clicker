@@ -1,4 +1,4 @@
-# Laze Clicker | 26.08.2021
+# Laze Clicker | ??.10.2021
 ## Özellikler
 
 🔰 Left Clicker [1-20 CPS]
@@ -9,9 +9,13 @@
 
 🔰 Ignore Chat [Hilelerin sohbet açıkken açılmasını engeller]
 
+🔰 Toggle Sounds [Hilelerin açılma ve kapanma seslerini bildirir]
+
+🔰 Auto Rod [Sol mause tuşuna tıklandığında olta kullanır]
+
 ## Kurulum
 
-💠 [Laze Loader](https://github.com/Aleaf-Egemen/Clicker/releases) ile başlatın.
+💠 [Laze Loader](https://github.com/aaleaf/Laze/releases) ile başlatın.
 
 💠 Hilenin kurulumunu bekleyin.
 
