@@ -1,4 +1,4 @@
-# Laze Clicker | ??.10.2021
+# Laze Clicker | 18.11.2021
 ## Özellikler
 
 🔰 Left Clicker [1-20 CPS]
@@ -13,17 +13,14 @@
 
 🔰 Auto Rod [Sol mause tuşuna tıklandığında olta kullanır]
 
+🔰 Blink [NetLimiter'a başvurarak interneti kısıtlayıp görünmezlik etkisi oluşturur]
+
 ## Kurulum
 
-💠 [Laze Loader](https://github.com/aaleaf/Laze/releases) ile başlatın.
-
-💠 Hilenin kurulumunu bekleyin.
-
-💠 Hile otomatik olarak başlatılacaktır.
+💠 [Laze Discord Sunucusu](https://discord.gg/qYSk2ARukt)'na katılın.
 
 ## Ekran Görüntüleri
 
-![image](https://user-images.githubusercontent.com/45121448/130863644-76cea607-0f1d-463e-bffb-6b6b38bac5d0.png)
+![image](https://user-images.githubusercontent.com/45121448/142451627-668cb305-72b3-465e-8c59-f3db19452ee1.png)
 
-![image](https://user-images.githubusercontent.com/45121448/130863675-0b152c0f-dbe7-40ba-995a-cfb31dbca650.png)
-
+![image](https://user-images.githubusercontent.com/45121448/142451809-0ea82cea-71af-4b82-84e7-15934ccaf6d5.png)
