@@ -1,4 +1,4 @@
-# Laze Clicker | 18.11.2021
+# Laze Clicker | 13.02.2022
 ## Özellikler
 
 🔰 Left Clicker [1-20 CPS]
