@@ -7,7 +7,7 @@
 
 🔰 Arraylist [Hilelerin listesini gösteren menü]
 
-🔰 Ignore Chat [Hilelerin sohbet açıkken açılmasını engeller]
+🔰 Ignore Chat [Tuşların sohbet açıkken çalışmasını önler]
 
 🔰 Toggle Sounds [Hilelerin açılma ve kapanma seslerini bildirir]
 
@@ -17,10 +17,20 @@
 
 ## Kurulum
 
-💠 [Laze Discord Sunucusu](https://discord.gg/qYSk2ARukt)'na katılın.
+
+💠 Laze Loader'i [indirin](https://discord.gg/qYSk2ARukt) ve çalıştırın.
+💠 Kurulumun tamamlanmasını bekleyin.
+
+💠 Kurulum tamamlandıktan sonra kayıt menüsü ile karşılaşacaksınız.
+💠 Username adlı bölmeye hileye kayıt olmak için kullanacağınız kullanıcı adını girin. (Türkçe karakterler **desteklenmemektedir**)
+💠 Key adlı bölmeye hileye kayıt olurken kullanacağınız [lisans kodunuzu](https://discord.gg/qYSk2ARukt) girin.
+💠 Bölmeleri doğru şekilde doldurduktan sonra REGISTER butonuna tıklayın.
+
+⚠ Kayıt olurken kullanacağınız lisans kodu başkası tarafından kullanılmış olabilir, eğer bir hata alırsanız başka bir kodu deneyin. ⚠
 
 ## Ekran Görüntüleri
 
 ![image](https://user-images.githubusercontent.com/45121448/142451627-668cb305-72b3-465e-8c59-f3db19452ee1.png)
 
-![image](https://user-images.githubusercontent.com/45121448/142451809-0ea82cea-71af-4b82-84e7-15934ccaf6d5.png)
+![image](https://user-images.githubusercontent.com/45121448/153768583-24a16e37-295b-45d3-8982-985208714342.png)
+
