@@ -20,13 +20,13 @@
 
 💠 Laze Loader'i [indirin](https://discord.gg/qYSk2ARukt) ve çalıştırın.
 💠 Kurulumun tamamlanmasını bekleyin.
-
 💠 Kurulum tamamlandıktan sonra kayıt menüsü ile karşılaşacaksınız.
-💠 Username adlı bölmeye hileye kayıt olmak için kullanacağınız kullanıcı adını girin. (Türkçe karakterler **desteklenmemektedir**)
+💠 Username adlı bölmeye hileye kayıt olmak için kullanacağınız kullanıcı adını girin.
 💠 Key adlı bölmeye hileye kayıt olurken kullanacağınız [lisans kodunuzu](https://discord.gg/qYSk2ARukt) girin.
 💠 Bölmeleri doğru şekilde doldurduktan sonra REGISTER butonuna tıklayın.
 
 ⚠ Kayıt olurken kullanacağınız lisans kodu başkası tarafından kullanılmış olabilir, eğer bir hata alırsanız başka bir kodu deneyin. ⚠
+⚠ Kayıt olurken kullanacağınız kullanıcı adı başkası tarafından alınmış veya Türkçe harfler içeriyor olabilir, yeni bir kullanıcı adı deneyin. ⚠
 
 ## Ekran Görüntüleri
 
