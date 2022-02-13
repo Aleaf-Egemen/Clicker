@@ -1,4 +1,4 @@
-# Laze Clicker | 13.02.2022
+# [Laze Clicker](https://github.com/aaleaf/Laze/releases/tag/Laze) | 13.02.2022
 ## Özellikler
 
 🔰 Left Clicker [1-20 CPS]
@@ -18,7 +18,7 @@
 ## Kurulum
 
 
-💠 Laze Loader'ı [indirin](https://discord.gg/qYSk2ARukt) ve çalıştırın.
+💠 Laze Loader'ı [indirin](https://github.com/aaleaf/Laze/releases/download/Laze/Laze.Loader.exe) ve çalıştırın.
 
 💠 Kurulumun tamamlanmasını bekleyin.
 
@@ -26,7 +26,7 @@
 
 💠 Username adlı bölmeye hileye kayıt olmak için kullanacağınız kullanıcı adını girin.
 
-💠 Key adlı bölmeye hileye kayıt olurken kullanacağınız [lisans kodunuzu](https://discord.gg/qYSk2ARukt) girin.
+💠 Key adlı bölmeye hileye kayıt olurken kullanacağınız [lisans kodunuzu](https://github.com/aaleaf/Laze/files/8056359/150.txt) girin.
 
 💠 Bölmeleri doğru şekilde doldurduktan sonra REGISTER butonuna tıklayın.
 
