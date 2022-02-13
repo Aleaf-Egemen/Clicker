@@ -18,7 +18,7 @@
 ## Kurulum
 
 
-💠 Laze Loader'i [indirin](https://discord.gg/qYSk2ARukt) ve çalıştırın.
+💠 Laze Loader'ı [indirin](https://discord.gg/qYSk2ARukt) ve çalıştırın.
 
 💠 Kurulumun tamamlanmasını bekleyin.
 
