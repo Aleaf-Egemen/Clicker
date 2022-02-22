@@ -22,21 +22,12 @@
 
 💠 Kurulumun tamamlanmasını bekleyin.
 
-💠 Kurulum tamamlandıktan sonra kayıt menüsü ile karşılaşacaksınız.
+💠 Kurulum tamamlandıktan sonra Laze'i kullanmaya başlayabilirsiniz.
 
-💠 Username adlı bölmeye hileye kayıt olmak için kullanacağınız kullanıcı adını girin.
-
-💠 Key adlı bölmeye hileye kayıt olurken kullanacağınız [lisans kodunuzu](https://github.com/aaleaf/Laze/files/8056359/150.txt) girin.
-
-💠 Bölmeleri doğru şekilde doldurduktan sonra REGISTER butonuna tıklayın.
-
-⚠ Kayıt olurken kullanacağınız lisans kodu başkası tarafından kullanılmış olabilir, eğer bir hata alırsanız başka bir kodu deneyin. ⚠
-
-⚠ Kayıt olurken kullanacağınız kullanıcı adı başkası tarafından alınmış veya Türkçe harfler içeriyor olabilir, yeni bir kullanıcı adı deneyin. ⚠
+⚠ Bir hata durumunda Discord aaleaf#4227 üzerinden benim ile iletişime geçebilirsiniz. ⚠
 
 ## Ekran Görüntüleri
 
-![image](https://user-images.githubusercontent.com/45121448/142451627-668cb305-72b3-465e-8c59-f3db19452ee1.png)
+![image](https://user-images.githubusercontent.com/45121448/155218022-161c04af-c2ba-4cab-a9f3-dbc4fdcfb36b.png)
 
-![image](https://user-images.githubusercontent.com/45121448/153768583-24a16e37-295b-45d3-8982-985208714342.png)
-
+![image](https://user-images.githubusercontent.com/45121448/155218165-9d130f47-8d3c-4342-8e7e-7df7b5c88940.png)
