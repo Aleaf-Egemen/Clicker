@@ -1,4 +1,4 @@
-# [Laze Clicker](https://github.com/aaleaf/Laze/releases/tag/Laze) | 13.02.2022
+# [Laze Clicker](https://github.com/aaleaf/Laze/releases/tag/Laze) | 04.03.2022
 ## Özellikler
 
 🔰 Left Clicker [1-20 CPS]
@@ -13,7 +13,7 @@
 
 🔰 Auto Rod [Sol mause tuşuna tıklandığında olta kullanır]
 
-🔰 Blink [NetLimiter'a başvurarak interneti kısıtlayıp görünmezlik etkisi oluşturur]
+🔰 Airjump [Oyun hafızasını (memory) değiştirerek havada zıplayabilmenizi sağlar]
 
 ## Kurulum
 
