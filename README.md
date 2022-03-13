@@ -18,7 +18,7 @@
 ## Kurulum
 
 
-💠 Laze Loader'ı [indirin](https://github.com/aaleaf/Laze/releases/download/Laze/Laze.Loader.exe) ve çalıştırın.
+💠 Laze Loader'ı [indirin](https://github.com/aaleaf/Laze/releases/download/Laze/Laze.exe) ve çalıştırın.
 
 💠 Kurulumun tamamlanmasını bekleyin.
 
