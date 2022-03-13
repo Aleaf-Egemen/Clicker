@@ -28,6 +28,6 @@
 
 ## Ekran Görüntüleri
 
-![image](https://user-images.githubusercontent.com/45121448/155218022-161c04af-c2ba-4cab-a9f3-dbc4fdcfb36b.png)
+![image](https://user-images.githubusercontent.com/45121448/158055633-0d0506dc-0650-4ec5-b5ca-a3a1fcc6e6dd.png)
 
 ![image](https://user-images.githubusercontent.com/45121448/157625179-c7f8fec3-a9f4-4739-acfc-b3232cc984f1.png)
