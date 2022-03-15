@@ -1,19 +1,24 @@
-# [Laze Clicker](https://github.com/aaleaf/Laze/releases/tag/Laze) | 04.03.2022
+# [Laze Clicker](https://github.com/aaleaf/Laze/releases/tag/Laze) | 15.03.2022
 ## Özellikler
 
-🔰 Left Clicker [1-20 CPS]
+🔰 Left Clicker [1-75 CPS]
 
-🔰 Right Clicker [1-20 CPS]
+🔰 Right Clicker [1-75 CPS]
 
-🔰 Arraylist [Hilelerin listesini gösteren menü]
+🔰 Arraylist [Hilelerin listesini gösteren menü] (devre dışı)
 
 🔰 Ignore Chat [Tuşların sohbet açıkken çalışmasını önler]
 
 🔰 Toggle Sounds [Hilelerin açılma ve kapanma seslerini bildirir]
 
-🔰 Auto Rod [Sol mause tuşuna tıklandığında olta kullanır]
+🔰 Auto Rod [Belirlediğiniz tuşa ve belirlediğiniz moda bağlı olarak otomatik olta kullanır]
 
 🔰 Airjump [Oyun hafızasını (memory) değiştirerek havada zıplayabilmenizi sağlar]
+
+🔰 CPS Disabler [CPS limitini devre dışı bırakır]
+
+🔰 Aim Assist [Oyuna entegre olan özel kütüphane ile çizim yaptığı düşmanlara otomatik hedef alır]
+⚠️ UYARI: Bu özelliğin stabil çalışması için ekran ölçeğiniz %100 olmalıdır! ⚠️
 
 ## Kurulum
 
