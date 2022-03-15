@@ -18,6 +18,7 @@
 🔰 CPS Disabler [CPS limitini devre dışı bırakır]
 
 🔰 Aim Assist [Oyuna entegre olan özel kütüphane ile çizim yaptığı düşmanlara otomatik hedef alır]
+
 ⚠️ UYARI: Bu özelliğin stabil çalışması için ekran ölçeğiniz %100 olmalıdır! ⚠️
 
 ## Kurulum
