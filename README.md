@@ -1,5 +1,10 @@
-# [Laze Clicker](https://github.com/aaleaf/Laze/releases/tag/Laze) | 15.03.2022
+# [Laze Clicker](https://github.com/aaleaf/Laze/releases/tag/Laze) | 26.03.2022
 ## Özellikler
+
+💠 Laze IRC [Laze kullanıcıları ile sohbet edebileceğiniz sohbet sunucusu] 💠
+
+👉 Kayıt olmak için, /register kullanıcıAdı şifre; var olan hesaba giriş yapmak için /login kullanıcıAdı şifre👈
+
 
 🔰 Left Clicker [1-75 CPS]
 
