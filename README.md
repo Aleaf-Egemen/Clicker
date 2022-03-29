@@ -3,7 +3,7 @@
 
 💠 Laze IRC [Laze kullanıcıları ile sohbet edebileceğiniz sohbet sunucusu] 💠
 
-👉 Kayıt olmak için, /register kullanıcıAdı şifre; var olan hesaba giriş yapmak için /login kullanıcıAdı şifre👈
+👉 Kayıt olmak için, /register kullanıcıAdı şifre; var olan hesaba giriş yapmak için /login kullanıcıAdı şifre 👈
 
 
 🔰 Left Clicker [1-75 CPS]
@@ -23,6 +23,8 @@
 🔰 CPS Disabler [CPS limitini devre dışı bırakır]
 
 🔰 Aim Assist [Oyuna entegre olan özel kütüphane ile çizim yaptığı düşmanlara otomatik hedef alır]
+
+⚠️ Visual C++ [x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) veya [x86](https://aka.ms/vs/17/release/vc_redist.x86.exe) bilgisayarınızda kuruk olması gerekir ⚠️
 
 ⚠️ UYARI: Bu özelliğin stabil çalışması için ekran ölçeğiniz %100 olmalıdır! ⚠️
 
