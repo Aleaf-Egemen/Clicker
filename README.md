@@ -1,4 +1,4 @@
-# [Laze Clicker](https://github.com/aaleaf/Laze/releases/tag/Laze) | 26.03.2022
+# [Laze Clicker](https://github.com/aaleaf/Laze/releases/tag/Laze) | 1.04.2022
 ## Özellikler
 
 💠 Laze IRC [Laze kullanıcıları ile sohbet edebileceğiniz sohbet sunucusu] 💠
