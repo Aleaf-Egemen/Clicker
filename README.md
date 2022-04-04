@@ -41,6 +41,7 @@
 
 ## Ekran Görüntüleri
 
-![image](https://user-images.githubusercontent.com/45121448/158055633-0d0506dc-0650-4ec5-b5ca-a3a1fcc6e6dd.png)
+![image](https://user-images.githubusercontent.com/45121448/161630409-2de9c20b-6ad0-4f3c-9b31-573269364e38.png)
 
-![image](https://user-images.githubusercontent.com/45121448/157625179-c7f8fec3-a9f4-4739-acfc-b3232cc984f1.png)
+![image](https://user-images.githubusercontent.com/45121448/161630430-d3e16c67-3880-496f-a008-38c2ab199a22.png)
+
