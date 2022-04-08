@@ -18,7 +18,7 @@
 
 🔰 Auto Rod [Belirlediğiniz tuşa ve belirlediğiniz moda bağlı olarak otomatik olta kullanır]
 
-🔰 Airjump [Oyun hafızasını (memory) değiştirerek havada zıplayabilmenizi sağlar]
+🔰 _Airjump [Oyun hafızasını (memory) değiştirerek havada zıplayabilmenizi sağlar]_
 
 🔰 CPS Disabler [CPS limitini devre dışı bırakır]
 
