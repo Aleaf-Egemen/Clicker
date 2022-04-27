@@ -31,17 +31,14 @@
 ## Kurulum
 
 
-💠 Laze Loader'ı [indirin](https://github.com/aaleaf/Laze/releases/download/Laze/Laze.exe) ve çalıştırın.
+💠 Laze'i [indirin](https://github.com/aaleaf/Laze/releases/download/Laze/Laze.exe) ve çalıştırın.
 
-💠 Kurulumun tamamlanmasını bekleyin.
-
-💠 Kurulum tamamlandıktan sonra Laze'i kullanmaya başlayabilirsiniz.
+💠 Çalıştırdıktan sonra belirtilen kullanıcı kodunuzu kopyalayın ve [Discord]https://discord.gg/uVBcyVdMuZ sunucumuza gelip doğrulayın.
 
 ⚠ Bir hata durumunda Discord aaleaf#4227 üzerinden benim ile iletişime geçebilirsiniz. ⚠
 
 ## Ekran Görüntüleri
 
-![image](https://user-images.githubusercontent.com/45121448/161630409-2de9c20b-6ad0-4f3c-9b31-573269364e38.png)
+![image](https://user-images.githubusercontent.com/45121448/165631575-a3aa74e5-2011-4552-b79b-0105c823adb5.png)
 
-![image](https://user-images.githubusercontent.com/45121448/161630430-d3e16c67-3880-496f-a008-38c2ab199a22.png)
-
+![image](https://user-images.githubusercontent.com/45121448/165631711-864efa2e-5de9-4716-ac9c-bc69dfca058b.png)
