@@ -1,4 +1,4 @@
-# [Laze Clicker](https://github.com/aaleaf/Laze/releases/tag/Laze) | 1.04.2022
+# [Laze Clicker](https://github.com/aaleaf/Laze/releases/tag/Laze) | 27.04.2022
 ## Özellikler
 
 💠 Laze IRC [Laze kullanıcıları ile sohbet edebileceğiniz sohbet sunucusu] 💠
@@ -10,7 +10,7 @@
 
 🔰 Right Clicker [1-75 CPS]
 
-🔰 Arraylist [Hilelerin listesini gösteren menü] (devre dışı)
+🔰 Arraylist [Hilelerin listesini gösteren küçük menü]
 
 🔰 Ignore Chat [Tuşların sohbet açıkken çalışmasını önler]
 
