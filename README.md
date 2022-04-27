@@ -33,7 +33,7 @@
 
 💠 Laze'i [indirin](https://github.com/aaleaf/Laze/releases/download/Laze/Laze.exe) ve çalıştırın.
 
-💠 Çalıştırdıktan sonra belirtilen kullanıcı kodunuzu kopyalayın ve [Discord]https://discord.gg/uVBcyVdMuZ sunucumuza gelip doğrulayın.
+💠 Çalıştırdıktan sonra belirtilen kullanıcı kodunuzu kopyalayın ve [Discord](https://discord.gg/uVBcyVdMuZ) sunucumuza gelip doğrulayın.
 
 ⚠ Bir hata durumunda Discord aaleaf#4227 üzerinden benim ile iletişime geçebilirsiniz. ⚠
 
