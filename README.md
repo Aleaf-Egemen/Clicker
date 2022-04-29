@@ -1,4 +1,4 @@
-# [Laze Clicker](https://github.com/aaleaf/Laze/releases/tag/Laze) | 27.04.2022
+# [Laze Clicker](https://github.com/aaleaf/Laze/releases/tag/Laze) | 27.04.2022 | Yeni [Discord](https://discord.gg/uVBcyVdMuZ)
 ## Özellikler
 
 💠 Laze IRC [Laze kullanıcıları ile sohbet edebileceğiniz sohbet sunucusu] 💠
@@ -21,6 +21,8 @@
 🔰 _Airjump [Oyun hafızasını (memory) değiştirerek havada zıplayabilmenizi sağlar]_
 
 🔰 CPS Disabler [CPS limitini devre dışı bırakır]
+
+🔰 Config Manager [Laze için ayar dosyaları oluşturmanıza ve daha sonra onları yüklemenize olanak sağlar]
 
 🔰 Aim Assist [Oyuna entegre olan özel kütüphane ile çizim yaptığı düşmanlara otomatik hedef alır]
 
