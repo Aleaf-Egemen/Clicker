@@ -3,8 +3,6 @@
 
 💠 Laze IRC [Laze kullanıcıları ile sohbet edebileceğiniz sohbet sunucusu] 💠
 
-👉 Kayıt olmak için, /register kullanıcıAdı şifre; var olan hesaba giriş yapmak için /login kullanıcıAdı şifre 👈
-
 🔰 Box ESP [Kişiselleştirilebilir düşmanları kutu içinde gösteren özellik]
 
 🔰 Tracers [Oyuncuları karşı çıkan bir çizgi]
@@ -23,7 +21,7 @@
 
 🔰 Auto Rod [Belirlediğiniz tuşa ve belirlediğiniz moda bağlı olarak otomatik olta kullanır]
 
-🔰 (Ban Riski) Airjump [Oyun hafızasını (memory) değiştirerek havada zıplayabilmenizi sağlar]
+🔰 (Ban Riskli) Airjump [Oyun hafızasını (memory) değiştirerek havada zıplayabilmenizi sağlar]
 
 🔰 CPS Disabler [CPS limitini devre dışı bırakır]
 
@@ -42,7 +40,7 @@
 
 💠 Çalıştırdıktan sonra belirtilen lisans kodunuzu kopyalayın ve [Discord](https://discord.gg/uVBcyVdMuZ) sunucumuza gelip doğrulayın.
 
-⚠ Bir hata durumunda Discord aaleaf#4227 üzerinden benim ile iletişime geçebilirsiniz. ⚠
+⚠ Bir hata durumunda Discord Azis#1337 üzerinden benim ile iletişime geçebilirsiniz. ⚠
 
 ## Ekran Görüntüleri
 
