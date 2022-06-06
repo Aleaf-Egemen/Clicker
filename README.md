@@ -1,13 +1,17 @@
-# [Laze Clicker](https://github.com/aaleaf/Laze/releases/tag/Laze) | 16.05.2022 | Yeni [Discord](https://discord.gg/uVBcyVdMuZ)
+# [Laze Clicker](https://github.com/aaleaf/Laze/releases/tag/Laze) | 6.06.2022 | Yeni [Discord](https://discord.gg/uVBcyVdMuZ)
 ## Özellikler
 
 💠 Laze IRC [Laze kullanıcıları ile sohbet edebileceğiniz sohbet sunucusu] 💠
 
-🔰 Box ESP [Kişiselleştirilebilir düşmanları kutu içinde gösteren özellik]
+🔰 Box ESP [Düşmanları kutu içinde gösterir]
 
 🔰 Tracers [Oyuncuları karşı çıkan bir çizgi]
 
-🔰 Tracers [Oyuncuları duvar arkasında olsa bile değilmiş gibi gösterecek özellik]
+🔰 Chams [Oyuncuları duvar arkasında olsa bile değilmiş gibi gösterir]
+
+🔰 Chest ESP [Sandıkları kutu içinde gösterir]
+
+🔰 Nametags [Oyuncu isimlerini büyültür]
 
 🔰 Left Clicker [1-75 CPS]
 
@@ -27,7 +31,7 @@
 
 🔰 Config Manager [Laze için ayar dosyaları oluşturmanıza ve daha sonra onları yüklemenize olanak sağlar]
 
-🔰 Aim Assist [Oyuna entegre olan özel kütüphane ile çizim yaptığı düşmanlara otomatik hedef alır]
+🔰 Aim Assist [Düşmanlarınıza otomatik aim alır]
 
 ⚠️ Visual C++ [x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) veya [x86](https://aka.ms/vs/17/release/vc_redist.x86.exe) bilgisayarınızda kuruk olması gerekir ⚠️
 
