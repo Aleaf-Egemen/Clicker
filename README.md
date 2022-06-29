@@ -44,7 +44,7 @@
 
 💠 Çalıştırdıktan sonra belirtilen lisans kodunuzu kopyalayın ve [Discord](https://discord.gg/uVBcyVdMuZ) sunucumuza gelip doğrulayın.
 
-⚠ Bir hata durumunda Discord Azis#1337 üzerinden benim ile iletişime geçebilirsiniz. ⚠
+⚠ Bir hata durumunda Discord aaleaf#0148 üzerinden benim ile iletişime geçebilirsiniz. ⚠
 
 ## Ekran Görüntüleri
 
