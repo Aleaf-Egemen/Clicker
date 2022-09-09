@@ -34,9 +34,6 @@
 🔰 Aim Assist [Düşmanlarınıza otomatik aim alır]
 
 ⚠️ Visual C++ [x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) veya [x86](https://aka.ms/vs/17/release/vc_redist.x86.exe) bilgisayarınızda kuruk olması gerekir ⚠️
-
-⚠️ UYARI: Bu özelliğin stabil çalışması için ekran ölçeğiniz %100 olmalıdır! ⚠️
-
 ## Kurulum
 
 
