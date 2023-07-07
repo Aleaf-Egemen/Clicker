@@ -1,4 +1,6 @@
-# [Laze 3.1](https://github.com/aaleaf/Laze/releases/tag/Laze) | 6.06.2022 | Yeni [Discord](https://discord.com/invite/uVBcyVdMuZ)
+# Discord sunucusu tekrardan açıldı: Yeni [Discord](https://discord.com/invite/XskJDsrNds)
+
+# [Laze 3.1](https://github.com/aaleaf/Laze/releases/tag/Laze) | 6.06.2022 | Yeni [Discord](https://discord.com/invite/XskJDsrNds)
 ## Özellikler
 
 💠 Laze IRC [Laze kullanıcıları ile sohbet edebileceğiniz sohbet sunucusu] 💠
