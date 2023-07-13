@@ -41,9 +41,7 @@
 
 💠 Laze'i [indirin](https://github.com/aaleaf/Laze/releases/download/Laze/Laze.exe) ve çalıştırın.
 
-💠 Çalıştırdıktan sonra belirtilen lisans kodunuzu kopyalayın ve [Discord](https://discord.gg/uVBcyVdMuZ) sunucumuza gelip doğrulayın.
-
-⚠ Bir hata durumunda Discord aaleaf#0148 üzerinden benim ile iletişime geçebilirsiniz. ⚠
+💠 Çalıştırdıktan sonra belirtilen lisans anahtarınızı kopyalayın ve [Discord](https://discord.gg/XskJDsrNds) sunucumuza gelip doğrulayın.
 
 ## Ekran Görüntüleri
 
